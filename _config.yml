@@ -1,21 +1,21 @@
-title: Xinghan Chen
+title: Linxi Qu
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://xinghanchen1999.github.io/
+url: https://qulynn707.github.io
 
 # Owner/author information
 owner:
-  name: Xinghan Chen
-  avatar: cxh.jpg
+  name: Linxi Qu
+  avatar: LINXIprofile.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: 2230078@tongji.edu.cn
-  cv: https://XinghanChen1999.github.io/file/cv-XinghanCHEN.pdf
+  email: 2430089@tongji.edu.cn
+  cv: https://qulynn707.github.io/file/CV_Linxi_Qu.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # github: GuangLun2000
   # linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=6B5wWJ0AAAAJ&hl=zh-CN&oi=ao
+  # scholar: https://scholar.google.com/citations?user=6B5wWJ0AAAAJ&hl=zh-CN&oi=ao
   # bilibili: 594030035
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
@@ -75,9 +75,9 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
-disqus:
-  shortname: Xinghan
+# # disqus settings:
+# disqus:
+#   shortname: Xinghan
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
