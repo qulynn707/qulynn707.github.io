@@ -43,6 +43,6 @@ If you are interested in my research, please feel free to contact me at [2430089
 ---
 
 ## News and Updates
-- **June 2026：**My research *Assessing Station-City Integration from a Human-Centred Perspective: A New Node-Place Framework Applied to Chinese High-Speed Rail Station Areas* has been accepted to [ACSP 2026](https://www.acsp.org/page/ConfAllAbout2026) as an individual paper. **See you in PITTSBURGH!**🎉
-- **July 2025：**Very excited to present our work *Evaluating the quality of children’s Active School Travel Spaces through multi-source big data: An approach for informing better child-friendly urban design* at [AESOP 2025](https://aesop-planning.eu/activities/events/annual-congress/congress-istanbul-2025). 
+- **June 2026:** My research *Assessing Station-City Integration from a Human-Centred Perspective: A New Node-Place Framework Applied to Chinese High-Speed Rail Station Areas* has been accepted to [ACSP 2026](https://www.acsp.org/page/ConfAllAbout2026) as an individual paper.  **See you in PITTSBURGH!** 🎉
+- **July 2025:** Very excited to present our work *Evaluating the quality of children’s Active School Travel Spaces through multi-source big data: An approach for informing better child-friendly urban design* at [AESOP 2025](https://aesop-planning.eu/activities/events/annual-congress/congress-istanbul-2025). 
 
