@@ -4,36 +4,45 @@ layout: page
 
 # About Me
 
-<img src="https://XinghanChen1999.github.io/images/cxhbb.jpg" style="width:150px; height:auto;" class="floatpic">
+<img src="/images/LINXIprofile.jpg" style="width:150px; height:auto;" class="floatpic" alt="Linxi Qu">
 
-Here is **Xinghan Chen (陈星汉)**.
+I am **Linxi Qu**, a Master's candidate in the College of Architecture and Urban Planning at Tongji University and a research assistant in the Computational Urban Design Lab.
 
-I am a Master's candidate in the College of Architecture and Urban Planning (CAUP) at Tongji University. Currently, I am serving as a research assistant at the [Computational Urban Design Lab](https://www.tjcud.cn/), under the guidance of [Prof. Yu Ye](https://www.researchgate.net/profile/Yu-Ye-10).
+My research lies at the intersection of **human-centred built environment, urban mobility, and multimodal urban analytics**. I examine how streets and transit-oriented places support everyday mobility, accessibility, well-being, and lived experience, particularly for children and other mobility-vulnerable groups.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at 2230078@tongji.edu.cn
+My current work focuses on active school travel and child-friendly cities, as well as human-centred evaluation of station–city integration in Chinese high-speed rail station areas. Methodologically, I integrate multi-source geospatial and location-based data, street-view imagery and deep learning, spatial and network analysis, interpretable machine learning, LLM-assisted evidence and user-generated content analysis, and wearable biosensing.
 
-## Academic Background
+I hope to pursue further research that connects city-scale measurement with human-scale experience and translates fine-grained spatial evidence into more equitable planning and design interventions.
 
-- **Sep 2022 - Present:** Tongji University (MSc, CAUP)
-- **Sep 2018 - Jun 2022:** Tongji University (BEng, CAUP)
+If you are interested in my research, please feel free to contact me at [2430089@tongji.edu.cn](mailto:2430089@tongji.edu.cn).
+
+---
+
+## Education
+
+- **M.S. Candidate, Tongji University**, Shanghai, China  
+  College of Architecture and Urban Planning, Sep. 2024 – Mar. 2027  
+  Advised by Prof. Yu Ye
+
+- **B.Eng., Chongqing University**, Chongqing, China  
+  College of Architecture and Urban Planning, Sep. 2019 – Jun. 2024  
+  GPA: 3.81/4.00; Rank: 4 (Top 1%)
 
 ---
 
 ## Research Interests
 
-- Urban data science
-- Urban morphology
-- Spatial inequality
-- Computational design
+- Human-centred built environment and urban mobility
+- Built environment and travel behaviour
+- Walkability, active travel, and child-friendly cities
+- Transit-oriented development and accessibility
+- Spatial equity and transport justice
+- Street-view imagery, deep learning, and multimodal urban analytics
 
-I excel at using quantitative methods such as deep learning, computer vision, and spatial analytical tools to measure urban features and qualities that were previously unmeasurable.
 
 ---
 
 ## News and Updates
-- **August 2024：**Delighted to share that our study, *Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials*, has been Published by *Environment and Planning B: Urban Analytics and City Science*!🎉
-- **July 2024：**Very excited to present our work *Assisting refined urban management: Building an evaluation framework of data mapping rate towards digital twin city platforms* at [CDRF 2024](https://www.digitalfutures.world/conference/18.html). 
-- **July 2024：**Very excited to present our work *Measuring sense of place as an unmeasurable urban environment: Using Street View images and CNN to detect building façade materials* at [IAPS 2024](https://www.iaps2024barcelona.com/). 
-- **May 2024：**Our work *Intelligent redelineation and feature analysis of urban historical areas* has been accepted to [ACSP 2024](https://www.acsp.org/page/ConfAllAbout2024) as an individual paper. **See you in Seattle!**🎉
-
+- **June 2026：**My research *Assessing Station-City Integration from a Human-Centred Perspective: A New Node-Place Framework Applied to Chinese High-Speed Rail Station Areas* has been accepted to [ACSP 2026](https://www.acsp.org/page/ConfAllAbout2026) as an individual paper. **See you in PITTSBURGH!**🎉
+- **July 2025：**Very excited to present our work *Evaluating the quality of children’s Active School Travel Spaces through multi-source big data: An approach for informing better child-friendly urban design* at [AESOP 2025](https://aesop-planning.eu/activities/events/annual-congress/congress-istanbul-2025). 
 
