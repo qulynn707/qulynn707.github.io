@@ -6,18 +6,18 @@ title: Publications
 
 ## Manuscript in Review
 
-- **Chen XH**, Zeng XC, Li L, et al. (2024) Measuring global cityscapes: Constructing a genealogy for the cityscape-culture nexus. *Nature Cities*. (Decision to revise on 19th February 25)<br>
-  
+- **Qu, L.**, Liu, X., Zhang, L., Yu, H., & Ye, Y. (2026). Measuring active school travel friendliness via big data and wearable biosensors: An evidence-based approach for child-friendly cities. *Cities*. Under review (third round).
+
+- Lei, J., **Qu, L.**, & Ye, Y. (2026). From place advantage to platform dependency: How the platform economy modulates built environment effects. *Environment and Planning B: Urban Analytics and City Science*. Under review.
+
+- **Qu, L.**, Lei, J., & Ye, Y. (2026). Station–city oriented leadership in integration and development (SOLID): A data-informed evaluation system from a human-centred perspective. *Land Use Policy*. Under review.
+
 <br>
 ---
 
 ## Peer-Reviewed Journal Articles
 
-- **Chen XH**, Ding XW, Ye Y. (2024) [Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials.](https://XinghanChen1999.github.io/file/chen-et-al-2024.pdf)🔗*Environment and Planning B: Urban Analytics and City Science*. (https://doi.org/10.1177/23998083241279992) <br>
-
-- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) [Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning.](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗 *Landscape Architecture* 31(3): 123-131. (In Chinese) <br>
-
-- Ye Y, Zhang HL, **Chen XH**, et al. (2024) [Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case.](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf)🔗 *The Architect* 45(2): 31-38. (In Chinese) 
+- Liu, X., & **Qu, L.** (2026). [A multi-source data-driven paradigm for urban renewal: A case study of the Xuhui Waterfront and the Expo–Qiantan in Shanghai](https://doi.org/10.19875/j.cnki.jzywh.2026.09.001). *Architecture & Culture*. Forthcoming. (In Chinese)
 
   <br>
 
@@ -25,15 +25,9 @@ title: Publications
 
 ## Conference Presentation
 
-- **Chen XH**, Ye Y. (2024) Intelligent redelineation and feature analysis of urban historical areas. *The 64th Association of Collegiate Schools of Planning (ACSP)*. Seattle, America.
+- **Qu, L.**, & Liu, X. (2025). Evaluating the quality of children's active school travel spaces through multi-source big data: An approach for informing better child-friendly urban design. *The 37th Association of European Schools of Planning (AESOP) Annual Congress*, Istanbul, Türkiye. Oral presentation.
 
-- **Chen XH**, Zhang YP, Ye Y. (2024) [Assisting refined urban management: Building an evaluation framework of data mapping rate towards digital twin city platforms.](https://XinghanChen1999.github.io/file/CDRF_1229.pdf)🔗 *The 6th International Conference on Computational Design and Robotic Fabrication (CDRF)*. Shanghai, China.
-
-- **Chen XH**, Ding XW, He HY, et al. (2024) Measuring sense of place as an unmeasurable urban environment: Using Street View images and CNN to detect building façade materials. *The 28th International Conference Association People-environment Studies (IAPS)*. Barcelona, Spain. (Abstract)
-
-- **Chen XH**, Yu HT, Zhang HL, et al. (2023) [Evaluating and optimizing the functional composition of community centres: A data-informed approach assisting 15-minute community life circle.](https://XinghanChen1999.github.io/file/ISUF.pdf)🔗 *The 30th International Seminar on Urban Form (ISUF)*. Belgrade, Serbia.
-
-- **Chen XH**, Kang SZ, Huang CC, et al. (2023) [A human-oriented exploration of data-informed urban design: A case study in Shanghai.](https://XinghanChen1999.github.io/file/CUPUM_2023.pdf)🔗 *The 18th International Conference on Computational Urban Planning and Urban Management (CUPUM)*. Montreal, Canada.
+- **Qu, L.** (2026). Assessing station–city integration from a human-centred perspective: A new Node–Place framework applied to Chinese high-speed rail station areas. *The 66th Association of Collegiate Schools of Planning (ACSP) Annual Conference*, Pittsburgh, United States. Accepted for oral presentation.
 
   <br>
 
