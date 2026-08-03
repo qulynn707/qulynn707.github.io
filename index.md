@@ -4,7 +4,9 @@ layout: page
 
 # About Me
 
+
 <img src="/images/LINXIprofile.jpg" style="width:150px; height:auto;" class="floatpic" alt="Linxi Qu">
+
 
 I am **Linxi Qu**, a Master's candidate in the College of Architecture and Urban Planning at Tongji University and a research assistant in the Computational Urban Design Lab.
 
