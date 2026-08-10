@@ -4,46 +4,35 @@ permalink: /activities/index.html
 title: Activities
 ---
 
-### Student representative, the 4th Global Grand Challenges Summit
+### Exchange Student and Consecutive Interpreter, Universidad Politécnica de Madrid
 
 <div class="first">
-<img src="/images/A.jpg">
+<img src="/images/madrid-interpreting.jpg" alt="Consecutive interpreting during a meeting at Universidad Politécnica de Madrid">
 </div>
 <br>
 
-I joined an interdisciplinary team that included members from computer science, urban planning, surveying, and design. We traveled to London to attend the 4th Global Grand Challenges Summit and presented our team's results. As a student representative, I had the honor of being received by Princess Anne.<br>
+I spent one semester as an exchange student at Universidad Politécnica de Madrid. During my exchange, I participated in a meeting between a Shanghai delegation and the university, where I provided consecutive interpreting for the discussion.
 
----
+<hr>
 
-### Part-time Counselor, College of Architecture and Urban Planning
+### Volunteer, 2025 China-Spain Architects Dialogue Exhibition
 
-<div class="first">
-<img src="/images/B.jpg">
+<div class="half">
+<img src="/images/china-spain-exhibition-1.jpg" alt="China-Spain Architects Dialogue Exhibition in Madrid">
+<img src="/images/china-spain-exhibition-2.jpg" alt="Visitors at the China-Spain Architects Dialogue Exhibition">
 </div>
 <br>
 
-I worked as a part-time counselor at Tongji University. My main responsibilities included class management, academic advising, and psychological counseling. I also organized and participated in several experience-sharing sessions to discuss study tips and future plans.<br>
+In 2025, I volunteered at the China-Spain Architects Dialogue Exhibition in Madrid.
 
----
+<hr>
 
-### Editor-in-Chief, Student Magazine "Architecture of the Future"
+### Member, External Relations Department, Future Architects Association
 
-<div class="first">
-<img src="/images/C.jpg">
+<div class="half">
+<img src="/images/future-architects-1.jpg" alt="Future Architects Association visit to an architectural practice">
+<img src="/images/future-architects-2.jpg" alt="Members of the Future Architects Association">
 </div>
 <br>
 
-I was the student editor-in-chief for the 11th and 12th issues of "Architecture of the Future" (student magazine). My responsibilities included planning, organizing, collecting articles, designing, and publicizing. Our work was popular among both students and teachers and was often used as a souvenir for alumni forums and inter-school exchange events.<br>
-
----
-
-### Volunteer, the 10th China Flower Expo
-
-<div class="first">
-<img src="/images/D.jpg">
-</div>
-<br>
-
-I volunteered at the 10th China Flower Expo on Chongming Island, Shanghai, for two weeks. My main tasks included guiding tours, photography, and copywriting. During this time, I learned new media management skills and made many friends.<br>
-
----
+As a member of the External Relations Department of the Future Architects Association at Chongqing University, I helped plan and organise visits to architectural practices.
