@@ -10,7 +10,7 @@ title: Awards
 - **2024–2025** — Merit Master's Student Scholarship, Tongji University
 - **2024** — **Outstanding Graduate Award**, Chongqing University
 - **2020** — **National Scholarship**, the highest honour awarded by the Ministry of Education (Top 1%)
-- **2020–2023** — Merit Master's Student Scholarship, Chongqing University
+- **2020–2023** — Merit Student Scholarship, Chongqing University
 - **2020–2022** — Outstanding Student Award, Chongqing University
 
 <hr>
