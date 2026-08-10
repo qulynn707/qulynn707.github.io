@@ -12,7 +12,8 @@ title: Awards
 - **2020** — **National Scholarship**, the highest honour awarded by the Ministry of Education (Top 1%)
 - **2020–2023** — Merit Master's Student Scholarship, Chongqing University
 - **2020–2022** — Outstanding Student Award, Chongqing University
----
+
+<hr>
 
 ## Competitions and Practices
 
