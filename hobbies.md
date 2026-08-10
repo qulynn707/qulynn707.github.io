@@ -4,30 +4,29 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+## Musical Theatre and Singing
 
-## Travel
+<div class="half">
+<img src="/images/musical-theatre-1.jpg" alt="Musical theatre performance">
+<img src="/images/musical-theatre-2.jpg" alt="Musical theatre cast">
+<img src="/images/musical-theatre-3.jpg" alt="Musical theatre exchange activity">
+<img src="/images/musical-theatre-4.jpg" alt="Singing in a musical theatre production">
+</div>
+<br>
+
+I enjoy musical theatre and singing. As a member of my university's musical theatre society, I have taken part in stage productions, musical theatre exchanges, and singing competitions.
+
+## Photography
 
 <div class="third">
-<img src="/images/travel1.jpg">
-<img src="/images/travel2.jpg">
-<img src="/images/travel3.jpg">
+<img src="/images/photography-1.jpg" alt="Photograph taken while travelling">
+<img src="/images/photography-2.jpg" alt="Photograph taken during an outdoor hike">
+<img src="/images/photography-3.jpg" alt="Photograph of an urban scene">
 </div>
-<br>Traveling is the best way to explore cities. From my travels, I feel the complexity and unique charm of each city. This inspired me to choose urban studies as my future career. I enjoy comparing books about cities with my travel experiences; it's very interesting. As an old Chinese saying goes: "Read ten thousand books, travel ten thousand miles."
-
-## Cooking
-
-<div class="third">
-<img src="/images/cook1.jpg">
-<img src="/images/cook2.jpg">
-<img src="/images/cook3.jpg">
+<div class="half">
+<img src="/images/photography-4.jpg" alt="Photograph taken during a city walk">
+<img src="/images/photography-5.jpg" alt="Photograph of a memorable landscape">
 </div>
-<br>Cooking is my daily way to relax. Trying different recipes and exploring ingredients from various countries is exciting. Cooking requires a sense of control and attention to each detail. Nothing is more rewarding than cooking and sharing good food.
+<br>
 
-
-
-
-
-
-
-
+Whether travelling, hiking outdoors, or taking a city walk, I enjoy bringing my camera with me to capture memorable moments in nature and cities.
