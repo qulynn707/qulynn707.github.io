@@ -17,9 +17,8 @@ I spent one semester as an exchange student at Universidad Politécnica de Madri
 
 ### Volunteer, 2025 China-Spain Architects Dialogue Exhibition
 
-<div class="half">
-<img src="/images/china-spain-exhibition-1.jpg" alt="China-Spain Architects Dialogue Exhibition in Madrid">
-<img src="/images/china-spain-exhibition-2.jpg" alt="Visitors at the China-Spain Architects Dialogue Exhibition">
+<div class="first">
+<img src="/images/china-spain-exhibition.jpg" alt="China–Spain Young Architects Exhibition">
 </div>
 <br>
 
@@ -30,8 +29,7 @@ In 2025, I volunteered at the China-Spain Architects Dialogue Exhibition in Madr
 ### Member, External Relations Department, Future Architects Association
 
 <div class="half">
-<img src="/images/future-architects-1.jpg" alt="Future Architects Association visit to an architectural practice">
-<img src="/images/future-architects-2.jpg" alt="Members of the Future Architects Association">
+<img src="/images/future-architects.jpg" alt="Future Architects Association visit to an architectural practice">
 </div>
 <br>
 
