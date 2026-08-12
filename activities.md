@@ -28,8 +28,10 @@ In 2025, I volunteered at the China-Spain Architects Dialogue Exhibition in Madr
 
 ### Member, External Relations Department, Future Architects Association
 
-<div class="half">
-<img src="/images/future-architects.jpg" alt="Future Architects Association visit to an architectural practice">
+<div class="first">
+<img src="/images/future-architects.jpg"
+     alt="Future Architects Association visit to an architectural practice"
+     style="width:100%; height:auto;">
 </div>
 <br>
 
