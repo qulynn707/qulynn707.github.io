@@ -34,11 +34,11 @@ If you are interested in my research, please feel free to contact me at [2430089
 
 ## Research Interests
 
-- Human-centred built environment and urban mobility
+- human-centred computational urban research
 - Built environment and travel behaviour
-- Walkability, active travel, and child-friendly cities
+- Walkability and active travel
 - Transit-oriented development and accessibility
-- Spatial equity and transport justice
+- Spatial equity
 - Street-view imagery, deep learning, and multimodal urban analytics
 
 
