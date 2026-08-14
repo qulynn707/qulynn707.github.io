@@ -10,7 +10,9 @@ layout: page
 
 I am **Linxi Qu**, a Master's candidate in the College of Architecture and Urban Planning at Tongji University and a research assistant in the Computational Urban Design Lab.
 
-My research lies at the intersection of **human-centred built environment, urban mobility, and multimodal urban analytics**. I examine how built environments and urban places shape accessibility, well-being, and lived experience, particularly for children and other mobility-vulnerable groups.
+My research lies at the intersection of **human-centred built environment, urban mobility, and multimodal urban analytics**. 
+(1) Examining how built environments and urban places shape accessibility, well-being, and lived experience, particularly for mobility-vulnerable groups.
+(2)Investigating whether urban services and place quality are aligned with local needs using multimodal urban data and computational methods, and translating fine-grained spatial diagnosis into targeted planning and design interventions.
 
 My current work focuses on active school travel and child-friendly cities, as well as human-centred evaluation of station–city integration in Chinese high-speed rail station areas. Methodologically, I integrate multi-source geospatial and location-based data, street-view imagery and deep learning, spatial and network analysis, interpretable machine learning, LLM-assisted evidence and user-generated content analysis, and wearable biosensing.
 
