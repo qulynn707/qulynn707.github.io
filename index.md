@@ -37,9 +37,9 @@ If you are interested in my research, please feel free to contact me at [2430089
 - human-centred computational urban research
 - Built environment and travel behaviour
 - Walkability and active travel
-- Transit-oriented development and accessibility
+- Transit-oriented development
 - Spatial equity
-- Street-view imagery, deep learning, and multimodal urban analytics
+- multimodal urban analytics
 
 
 ---
